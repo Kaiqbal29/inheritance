@@ -1,0 +1,15 @@
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.csproj.AssemblyReference.cache
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.AssemblyInfoInputs.cache
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.AssemblyInfo.cs
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.csproj.CoreCompileInputs.cache
+E:\Pemograman\prak8\bin\Debug\net7.0\prak8.exe
+E:\Pemograman\prak8\bin\Debug\net7.0\prak8.deps.json
+E:\Pemograman\prak8\bin\Debug\net7.0\prak8.runtimeconfig.json
+E:\Pemograman\prak8\bin\Debug\net7.0\prak8.dll
+E:\Pemograman\prak8\bin\Debug\net7.0\prak8.pdb
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.dll
+E:\Pemograman\prak8\obj\Debug\net7.0\refint\prak8.dll
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.pdb
+E:\Pemograman\prak8\obj\Debug\net7.0\prak8.genruntimeconfig.cache
+E:\Pemograman\prak8\obj\Debug\net7.0\ref\prak8.dll
